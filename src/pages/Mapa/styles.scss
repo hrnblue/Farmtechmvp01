@@ -1,0 +1,21 @@
+.itembtn{
+    background:linear-gradient(100deg, rgba(#34178b, .8) 55%, rgba(#110521, .1)100%);
+    border-radius: 10px;
+    border-color: azure;
+    width: 130px;
+    height: 30px;
+    font-family: "Mukta", sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+.itensnome{
+    font-family: "Mukta", sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.imagem{ border-radius: 20px; }
+.popup-close{
+    color: white;
+    &:hover{ color: plum; }
+}
+
